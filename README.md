@@ -1,2 +1,7 @@
-# Digital-Nurture-4.0-JavaFSE
+#HANDS-ON SUBMISSIONS FOR COGNIZANT DIGITAL NURTURE PROGRAM 4.0 JAVA FSE
+Name: Sai Sneha Papineni
+
+Superset ID: 6419194
+
+E-mail Address: snehapapineni@gmail.com
 
