@@ -8,7 +8,7 @@ BEGIN
 
     cnt :=SQL%ROWCOUNT;
 
-    DBMS_OUTPUT.PUT_LINE('Total ' || cnt || ' account(s) updated with monthly interest of 1%.');
+    DBMS_OUTPUT.PUT_LINE('Total ' || cnt || ' accounts updated with monthly interest of 1%.');
 END;
 
 BEGIN
