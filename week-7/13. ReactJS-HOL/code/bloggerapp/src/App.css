@@ -1,18 +1,17 @@
-.app-container {
+.main-container {
   display: flex;
-  justify-content: space-evenly;
-  align-items: flex-start;
+  justify-content: space-around;
   padding: 20px;
-  gap: 1px;
 }
 
-.section {
-  border-right: 2px solid green;
-  padding-right: 20px;
-  margin-right: 0px;
-  min-width: 200px;
+.st2,
+.v1,
+.mystyle1 {
+  flex: 1;
+  padding: 20px;
+  border-right: 4px solid green;
 }
 
-.section:last-child {
-  border-right: none; 
+.v1 {
+  border-right: none;
 }
